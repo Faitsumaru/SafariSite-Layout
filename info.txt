@@ -1,0 +1,1 @@
+This is 'safari' site layout (only HTML & CSS) + adaptive layout!
